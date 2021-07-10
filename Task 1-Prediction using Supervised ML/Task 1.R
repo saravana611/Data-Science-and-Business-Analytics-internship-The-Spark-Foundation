@@ -17,7 +17,7 @@ scores
 #dividing dataset into training and testing data
 
 scores_size <- floor(0.75 * nrow(scores))
-set.seed(150)
+set.seed(126)
 scores_ind<- sample(seq_len(nrow(scores)),size = scores_size)
 train <- scores[scores_ind, ]
 train

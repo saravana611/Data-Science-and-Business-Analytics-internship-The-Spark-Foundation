@@ -15,7 +15,6 @@ scores<-data.frame(scores_data)
 scores
 
 #dividing dataset into training and testing data
-
 scores_size <- floor(0.75 * nrow(scores))
 set.seed(126)
 scores_ind<- sample(seq_len(nrow(scores)),size = scores_size)
@@ -29,11 +28,13 @@ s<-train$Scores
 h<-train$Hours
 # Plot a graph for the two variables.
 plot(h,s)
+
 # Create a linear model for regression.
 trmodel<-lm(s~h,data=train)
 print(trmodel)
 print(summary(trmodel))
 cor(s,h)
+
 # add the regression line to the scatterplot.
 plot(h,s,col="blue",main=" hours vs percentage ",xlab = "hours studies"
      ,ylab = "percentage scores")
@@ -54,7 +55,6 @@ cor(s1,h1)
 
 
 #predicting the model and calculating accuracy
-
 actuals_preds <- data.frame(cbind(actuals=test$Scores, predicted=test_predict))
 correlation_accuracy <- cor(actuals_preds)
 head(actuals_preds)

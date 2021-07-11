@@ -1,4 +1,3 @@
-
 #installing packages 
 install.packages('tidyverse')       
 install.packages('cluster')         
@@ -106,10 +105,8 @@ grid.arrange(VpSl  + ggtitle(""),
 
 
 
-
-
-
 #k-means Clustering
+
 
 #Find the optimal number of clusters by Elbow Method
 set.seed(123)

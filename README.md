@@ -31,7 +31,7 @@
    ● Dataset: https://bit.ly/3i4rbWl
    
   ### Task 4- Exploratory Data Analysis - Terrorism
-                   (Level - Intermediate)
+                 (Level - Intermediate)
    ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ 
    ● As a security/defense analyst, try to find out the hot zone of terrorism. 
    ● What all security issues and insights you can derive by EDA? 
@@ -40,7 +40,7 @@
    ● Dataset: https://bit.ly/2TK5Xn5
 
   ### Task 5-Exploratory Data Analysis - Sports
-                   (Level - Advanced)
+                  (Level - Advanced)
    ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ 
    ● As a sports analysts, find out the most successful teams, players and factors 
      contributing win or loss of a team. 
@@ -57,7 +57,7 @@
    ● Dataset : https://bit.ly/3kXTdox 
   
  ### Task 7-Stock Market Prediction using Numerical and Textual Analysis
-                    (Level - Advanced)
+                   (Level - Advanced)
    ● Objective: Create a hybrid model for stock price/performance  prediction
       using numerical analysis of historical stock prices, and sentimental
       analysis of news headlines 

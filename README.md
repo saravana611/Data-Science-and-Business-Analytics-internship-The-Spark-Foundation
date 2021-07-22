@@ -62,7 +62,7 @@
       using numerical analysis of historical stock prices, and sentimental
       analysis of news headlines 
    - Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
-   - Download historical stock prices from finance.yahoo.com
+   - Download historical stock prices from https://finance.yahoo.com
    - Download textual (news) data from https://bit.ly/36fFPI6
    - Use either R or Python, or both for separate analysis and then 
    - combine the findings to create a hybrid model 

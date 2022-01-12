@@ -3,7 +3,7 @@
    ### This repo consist of my intership task in the Graduate Rotational Internship Program(GRIP)
 ## Task List
  ### Task 1-Prediction using Supervised ML 
-                                   (Level - Beginner)
+                                              (Level - Beginner)
    - Predict the percentage of an student based on the no. of study hours. 
    - This is a simple linear regression task as it involves just 2 variables.
    - You can use R, Python, SAS Enterprise Miner or any other tool 
@@ -12,7 +12,7 @@
                 
         
   ### Task 2-Prediction using Unsupervised ML
-                 (Level - Beginner)
+                                          (Level - Beginner)
    - From the given ‘Iris’ dataset, predict the optimum number of clusters 
      and represent it visually. 
    - Use R or Python or perform this task
@@ -21,7 +21,7 @@
    
    
   ### Task 3-Exploratory Data Analysis - Retail
-                  (Level - Beginner)
+                                         (Level - Beginner)
    - Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ 
    - As a business manager, try to find out the weak areas where you can 
      work to make more profit. 
@@ -31,7 +31,7 @@
    - Dataset: https://bit.ly/3i4rbWl
    
   ### Task 4- Exploratory Data Analysis - Terrorism
-                 (Level - Intermediate)
+                                       (Level - Intermediate)
    - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ 
    - As a security/defense analyst, try to find out the hot zone of terrorism. 
    - What all security issues and insights you can derive by EDA? 
@@ -40,7 +40,7 @@
    - Dataset: https://bit.ly/2TK5Xn5
 
   ### Task 5-Exploratory Data Analysis - Sports
-                  (Level - Advanced)
+                                      (Level - Advanced)
    - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’ 
    - As a sports analysts, find out the most successful teams, players and factors 
      contributing win or loss of a team. 
@@ -50,14 +50,14 @@
    - Dataset: https://bit.ly/34SRn3b
    
   ### Task 6-Prediction using Decision Tree Algorithm 
-                 (Level - Intermediate)
+                                      (Level - Intermediate)
    - Create the Decision Tree classifier and visualize it graphically. 
    - The purpose is if we feed any new data to this classifier, it would be able to 
       predict the right class accordingly. 
    - Dataset : https://bit.ly/3kXTdox 
   
  ### Task 7-Stock Market Prediction using Numerical and Textual Analysis
-                   (Level - Advanced)
+                                     (Level - Advanced)
    - Objective: Create a hybrid model for stock price/performance  prediction
       using numerical analysis of historical stock prices, and sentimental
       analysis of news headlines 
